@@ -1,0 +1,14 @@
+######################################
+######## FORMULARIO MATRICULA ########
+######################################
+
+UNIVERSIDAD: UTA
+FACULTAD: FISEI
+CARRERA: SOFTWARE
+MATERIA: MANEJO Y CONFIGURACION DE DOFTWARE,
+	BASE DE DATOS,
+	COMPUTACION VISUAL,
+	AGILES,
+	REDES
+NUMERO DE CREDITOS: 18
+
