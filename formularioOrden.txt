@@ -1,0 +1,9 @@
+######################################
+######### FORMULARIO ORDEN ###########
+######################################
+
+NOMBRE DE ESTUDIANTE: JEFFERSON POAQUIZA
+SEMESTRE: CUARTO SEMESTRE
+FECHA: 30/10/2023
+VALOR: 60
+DISCAPACIDAD: NINGUNA
