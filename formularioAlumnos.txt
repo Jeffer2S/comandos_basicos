@@ -1,0 +1,11 @@
+#######################################
+######### FORMULARIO ALUMNOS ##########
+#######################################
+
+CEDULA: 1850099641
+NOMBRES: JEFFERSON STALIN
+APELLIDOS: POAQUIZA MINIGUANO
+CORREO: jefftalim111@gmail.com
+DIRECCION: PINLLO
+F. NACIMIENTO: 20/02/1999
+
